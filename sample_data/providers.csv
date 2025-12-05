@@ -1,0 +1,33 @@
+name,npi,specialty,phone,email,address,city,state,zip_code,website
+John Smith,1234567890,Cardiology,2125551234,john.smith@example.com,123 Main St,New York,NY,10001,www.example-clinic.com
+Jane Doe,9876543210,Pediatrics,3105555678,jane.doe@example.com,456 Oak Ave,Los Angeles,CA,90001,www.pediatrics-clinic.com
+Robert Johnson,1122334455,Orthopedics,3125559012,robert.j@example.com,789 Elm St,Chicago,IL,60601,www.ortho-clinic.com
+Sarah Williams,2233445566,Dermatology,4155553456,sarah.w@example.com,321 Pine Ave,San Francisco,CA,94102,www.derm-clinic.com
+Michael Brown,3344556677,Internal Medicine,7135557890,michael.b@example.com,654 Maple Dr,Houston,TX,77001,www.internal-med.com
+Emily Davis,4455667788,Cardiology,3055552345,emily.d@example.com,987 Cedar Ln,Miami,FL,33101,www.cardio-miami.com
+David Miller,5566778899,Neurology,2065554567,david.m@example.com,147 Birch St,Seattle,WA,98101,www.neuro-seattle.com
+Lisa Wilson,6677889900,Oncology,4045556789,lisa.w@example.com,258 Spruce Ave,Atlanta,GA,30301,www.onco-atlanta.com
+James Moore,7788990011,Pediatrics,6175550123,james.m@example.com,369 Willow Rd,Boston,MA,02101,www.peds-boston.com
+Patricia Taylor,8899001122,Cardiology,2145553456,patricia.t@example.com,741 Ash Blvd,Dallas,TX,75201,www.cardio-dallas.com
+Mark Anderson,9900112233,Orthopedics,3125557890,mark.a@example.com,852 Oak St,Chicago,IL,60602,www.ortho-chicago.com
+Jennifer Thomas,1011121314,Dermatology,4155552345,jennifer.t@example.com,963 Pine Dr,San Francisco,CA,94103,www.derm-sf.com
+Christopher Jackson,1112131415,Internal Medicine,7135555678,chris.j@example.com,159 Maple Ave,Houston,TX,77002,www.im-houston.com
+Amanda White,1213141516,Neurology,3055558901,amanda.w@example.com,357 Cedar St,Miami,FL,33102,www.neuro-miami.com
+Daniel Harris,1314151617,Oncology,2065551234,daniel.h@example.com,468 Birch Ln,Seattle,WA,98102,www.onco-seattle.com
+Jessica Martin,1415161718,Pediatrics,4045554567,jessica.m@example.com,579 Spruce Rd,Atlanta,GA,30302,www.peds-atlanta.com
+Matthew Thompson,1516171819,Cardiology,6175557890,matthew.t@example.com,680 Willow Ave,Boston,MA,02102,www.cardio-boston.com
+Ashley Garcia,1617181920,Orthopedics,2145550123,ashley.g@example.com,791 Ash St,Dallas,TX,75202,www.ortho-dallas.com
+Joshua Martinez,1718192021,Dermatology,3125553456,joshua.m@example.com,802 Oak Dr,Chicago,IL,60603,www.derm-chicago.com
+Stephanie Robinson,1819202122,Internal Medicine,4155556789,stephanie.r@example.com,913 Pine Ln,San Francisco,CA,94104,www.im-sf.com
+Andrew Clark,1920212223,Neurology,7135559012,andrew.c@example.com,124 Maple St,Houston,TX,77003,www.neuro-houston.com
+Michelle Rodriguez,2021222324,Oncology,3055552345,michelle.r@example.com,235 Cedar Ave,Miami,FL,33103,www.onco-miami.com
+Kevin Lewis,2122232425,Pediatrics,2065555678,kevin.l@example.com,346 Birch Rd,Seattle,WA,98103,www.peds-seattle.com
+Nicole Lee,2223242526,Cardiology,4045558901,nicole.l@example.com,457 Spruce St,Atlanta,GA,30303,www.cardio-atlanta.com
+Ryan Walker,2324252627,Orthopedics,6175551234,ryan.w@example.com,568 Willow Dr,Boston,MA,02103,www.ortho-boston.com
+Lauren Hall,2425262728,Dermatology,2145554567,lauren.h@example.com,679 Ash Ave,Dallas,TX,75203,www.derm-dallas.com
+Brandon Allen,2526272829,Internal Medicine,3125557890,brandon.a@example.com,780 Oak Ln,Chicago,IL,60604,www.im-chicago.com
+Samantha Young,2627282930,Neurology,4155550123,samantha.y@example.com,891 Pine St,San Francisco,CA,94105,www.neuro-sf.com
+Tyler King,2728293031,Oncology,7135553456,tyler.k@example.com,902 Maple Rd,Houston,TX,77004,www.onco-houston.com
+Rachel Wright,2829303132,Pediatrics,3055556789,rachel.w@example.com,103 Cedar Dr,Miami,FL,33104,www.peds-miami.com
+
+
