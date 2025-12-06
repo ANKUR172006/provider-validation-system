@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Provider Data Validation & Directory Management System
 
 A complete, production-quality AI-powered provider data validation system built for EY Techathon 6.0.
@@ -255,3 +256,7 @@ Key configuration options in `backend/config/settings.py`:
 This project is built for EY Techathon 6.0.
 
 
+=======
+# provider-validation-system
+AI-powered Provider Validation System using FastAPI &amp; Next.js. Upload CSV/PDF to extract, validate, and enrich provider data with OCR, fuzzy matching, and NPI API checks. Includes dashboards, logs, confidence scoring, and suspicious provider detection."
+>>>>>>> c7e0161be22fd53a0a6d5b741187089071234cd9
