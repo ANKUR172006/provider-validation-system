@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Provider Data Validation & Directory Management System
 
 A complete, production-quality AI-powered provider data validation system built for EY Techathon 6.0.
